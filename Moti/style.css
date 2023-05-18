@@ -186,8 +186,7 @@ body {
 } 
 
 .InformationHolder:hover {
-    animation: fadeInfo 2s;
-    transition-delay: 2s;
+    animation: fadeInfo 1.5s;
 }
 
 @keyframes fadeInfo {
